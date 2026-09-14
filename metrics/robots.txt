@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alvinedyvane.github.io/build-people-concepts-preview/metrics/sitemap.xml
