@@ -1,0 +1,27 @@
+# Build People
+
+Build People is a United States recruitment partner supplying proven construction, mining and industrial professionals for project, site, plant and business environments.
+
+## Services
+- Context-led recruitment for construction, mining and industrial organisations
+- Permanent placement of leaders, technical specialists and operations professionals
+- Confidential career conversations and job opportunities for professionals
+
+## Coverage
+National United States coverage across construction, mining and industrial sectors, including high-rise, infrastructure, specialist equipment and industrial operations.
+
+## Canonical public pages
+- Home: https://alvinedyvane.github.io/build-people-concepts-preview/metrics/index.html
+- Expertise: https://alvinedyvane.github.io/build-people-concepts-preview/metrics/expertise.html
+- Placement lifecycle: https://alvinedyvane.github.io/build-people-concepts-preview/metrics/placement-lifecycle.html
+- Placed roles: https://alvinedyvane.github.io/build-people-concepts-preview/metrics/placed-roles.html
+- Jobs: https://alvinedyvane.github.io/build-people-concepts-preview/metrics/jobs.html
+- News: https://alvinedyvane.github.io/build-people-concepts-preview/metrics/news.html
+- Contact: https://alvinedyvane.github.io/build-people-concepts-preview/metrics/contact.html
+- Human-readable site map: https://alvinedyvane.github.io/build-people-concepts-preview/metrics/sitemap.html
+- XML sitemap: https://alvinedyvane.github.io/build-people-concepts-preview/metrics/sitemap.xml
+
+## Contact
+Email: hello@build-people.com
+Phone: +1 813 808 8808
+Website: https://alvinedyvane.github.io/build-people-concepts-preview/metrics/
